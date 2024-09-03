@@ -5,12 +5,10 @@ I am a Software Engineering student in my 5th semester and passionate about soft
 ## About Me
 
 - 🎓 **Software Engineering Student** in my 5th semester.
-- 📚 **Advanced Python Course**.
-- 🌐 **Intermediate English**.
-- 💻 **Knowledge in JavaScript**.
 
 ## Skills and Expertise
 
+- **Intermediate English**.
 - **Basic SQL**
 - **Advanced Python**
 - **Django and Django REST Framework**
@@ -18,7 +16,7 @@ I am a Software Engineering student in my 5th semester and passionate about soft
 
 ## Contact
 
-- 📧 [Your Email](mailto:jc.carlos.junior@outlook.com)
+- 📧 [jc.carlos.junior@outlook.com](mailto:jc.carlos.junior@outlook.com)
 <!-- - 🌐 [LinkedIn](linkedin-link)
 - 💼 [Portfolio](portfolio-link)
 -->
