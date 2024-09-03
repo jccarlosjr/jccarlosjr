@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello, I'm Carlos Junior 👋
 
-<!--
-**jccarlosjr/jccarlosjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineering student in my 5th semester and passionate about software development. Here's a bit about me:
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🎓 **Software Engineering Student** in my 5th semester.
+- 📚 **Advanced Python Course**.
+- 🌐 **Intermediate English**.
+- 💻 **Knowledge in JavaScript**.
+
+## Skills and Expertise
+
+- **Basic SQL**
+- **Advanced Python**
+- **Django and Django REST Framework**
+- **Flask**
+
+## Contact
+
+- 📧 [Your Email](mailto:jc.carlos.junior@outlook.com)
+<!-- - 🌐 [LinkedIn](linkedin-link)
+- 💼 [Portfolio](portfolio-link)
 -->
+Thank you for visiting my profile!
