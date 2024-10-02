@@ -13,6 +13,8 @@ I am a Software Engineering student in my 5th semester and passionate about soft
 - **Advanced Python**
 - **Django and Django REST Framework**
 - **Flask**
+- **Javascript**
+- **HTML 5 and CSS 3**
 
 ## Contact
 
