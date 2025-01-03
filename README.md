@@ -4,7 +4,7 @@ I am a Software Engineering student in my 5th semester and passionate about soft
 
 ## About Me
 
-- 🎓 **Software Engineering Student** in my 5th semester.
+- 🎓 **Software Engineering** in my 6th semester.
 
 ## Skills and Expertise
 
