@@ -1,6 +1,6 @@
 # Hello, I'm Carlos Junior 👋
 
-I am a Software Engineering student in my 5th semester and passionate about software development. Here's a bit about me:
+I am a backend developer in my 6th semester and passionate about solving problems. Here's a bit about me:
 
 ## About Me
 
