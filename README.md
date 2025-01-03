@@ -8,10 +8,11 @@ I am a Software Engineering student in my 5th semester and passionate about soft
 
 ## Skills and Expertise
 
-- **Intermediate English**.
+- **English/Portuguese**
 - **Basic SQL**
 - **Advanced Python**
-- **Django and Django REST Framework**
+- **Django**
+- **API RESTFUL**
 - **Flask**
 - **Javascript**
 - **Java**
