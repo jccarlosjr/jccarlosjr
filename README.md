@@ -14,7 +14,9 @@ I am a Software Engineering student in my 5th semester and passionate about soft
 - **Django and Django REST Framework**
 - **Flask**
 - **Javascript**
+- **Java**
 - **HTML 5 and CSS 3**
+- **Cloud Skills (AWS)**
 
 ## Contact
 
