@@ -1,6 +1,6 @@
 # Hello, I'm Carlos Junior 👋
 
-I am a backend developer in my 6th semester and passionate about solving problems. Here's a bit about me:
+I am a developer in my 7th semester and passionate about solving problems. Here's a bit about me:
 
 ## About Me
 
@@ -9,13 +9,14 @@ I am a backend developer in my 6th semester and passionate about solving problem
 ## Skills and Expertise
 
 - **English/Portuguese**
-- **Basic SQL**
+- **SQL**
 - **Advanced Python**
 - **Django**
 - **API RESTFUL**
 - **Flask**
 - **Javascript**
-- **Java**
+- **C#**
+- **ASP.NET Core**
 - **HTML 5 and CSS 3**
 - **Cloud Skills (AWS)**
 
