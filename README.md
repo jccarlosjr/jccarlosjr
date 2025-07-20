@@ -1,6 +1,6 @@
 # Hello, I'm Carlos Junior 👋
 
-I am a developer in my 7th semester and passionate about solving problems. Here's a bit about me:
+I am a developer in my 7th semester and passionate about solving problems.
 
 ## About Me
 
