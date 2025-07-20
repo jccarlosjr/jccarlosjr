@@ -20,6 +20,12 @@ I am a developer in my 7th semester and passionate about solving problems.
 - **HTML 5 and CSS 3**
 - **Cloud Skills (AWS)**
 
+<div style="width: 200px;">
+  <a href="https://github.com/SeuPerfilAqui/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jccarlosjr&langs_count=8" alt="Top Langs" />
+  </a>
+</div>
+
 ## Contact
 
 - 📧 [jc.carlos.junior@outlook.com](mailto:jc.carlos.junior@outlook.com)
