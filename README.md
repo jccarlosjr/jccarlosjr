@@ -13,7 +13,7 @@ I am a developer in my 7th semester and passionate about solving problems. Here'
 - **Advanced Python**
 - **Django**
 - **API RESTFUL**
-- **Flask**
+- **Java**
 - **Javascript**
 - **C#**
 - **ASP.NET Core**
