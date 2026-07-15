@@ -38,19 +38,6 @@ Engenheiro de software fullstack, apaixonado por resolver problemas com código.
 - Arquitetura assíncrona (SQLAlchemy 2.0 async, Alembic, arq)
 - WhatsApp Business Cloud API / Meta App Review
 
-##  Projetos em destaque
-
-- **Sistema de atendimento multi-agente via WhatsApp** — backend em FastAPI + PostgreSQL + Redis + arq + MinIO, com roteamento de conversas entre atendentes e integração completa com a WhatsApp Cloud API.
-- **Plataforma de gestão de plantões e cuidados (saúde/home care)** — aplicação Django/DRF com calendário interativo (FullCalendar), arquitetura híbrida SSR + HTMX + Alpine.js.
-- **Gerador de quizzes com IA a partir de PDFs** — aplicação Django/DRF que extrai conteúdo de documentos e gera questões de múltipla escolha organizadas por matéria.
-- **Plataforma de e-learning (EduPlatform)** — backend em Django REST Framework (JWT, PostgreSQL, S3/MinIO) com frontend em Vue 3 + PrimeVue + Pinia + TypeScript.
-
-##  GitHub Stats
-
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=jccarlosjr&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jccarlosjr&layout=compact)
-
-
 ## 📫 Contato
 
 - [jc.carlos.junior@outlook.com](mailto:jc.carlos.junior@outlook.com)
