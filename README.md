@@ -2,7 +2,7 @@
 
 Engenheiro de software fullstack, apaixonado por resolver problemas com código. Atuo como desenvolvedor/consultor independente, construindo sistemas para o setor **fintech e crédito consignado** no Brasil — da arquitetura técnica ao lançamento em produção.
 
-## 🚀 Sobre mim
+## Sobre mim
 
 - Formação em Engenharia de Software
 -  Desenvolvedor fullstack freelance/consultor, com foco em soluções sob medida para clientes
@@ -11,7 +11,7 @@ Engenheiro de software fullstack, apaixonado por resolver problemas com código.
 -  Adepto de documentação e planejamento técnico antes de codar (spec-driven development)
 -  Sempre explorando arquiteturas assíncronas e boas práticas de engenharia (Clean/Hexagonal Architecture)
 
-## 🛠️ Skills e Tecnologias
+## Skills e Tecnologias
 
 **Linguagens**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
