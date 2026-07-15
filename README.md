@@ -1,15 +1,15 @@
-# Olá, eu sou Carlos Junior 👋
+# Olá, eu sou Carlos Junior
 
 Engenheiro de software fullstack, apaixonado por resolver problemas com código. Atuo como desenvolvedor/consultor independente, construindo sistemas para o setor **fintech e crédito consignado** no Brasil — da arquitetura técnica ao lançamento em produção.
 
 ## 🚀 Sobre mim
 
-- 🎓 Formação em Engenharia de Software
-- 💼 Desenvolvedor fullstack freelance/consultor, com foco em soluções sob medida para clientes
-- 🏦 Experiência prática no setor de crédito consignado e fintech
-- 💬 Especialista em integrações com WhatsApp Business Platform (Cloud API, homologação Meta, multi-agente)
-- 📝 Adepto de documentação e planejamento técnico antes de codar (spec-driven development)
-- 🌱 Sempre explorando arquiteturas assíncronas e boas práticas de engenharia (Clean/Hexagonal Architecture)
+- Formação em Engenharia de Software
+-  Desenvolvedor fullstack freelance/consultor, com foco em soluções sob medida para clientes
+-  Experiência prática no setor de crédito consignado e fintech
+-  Especialista em integrações com WhatsApp Business Platform (Cloud API, homologação Meta, multi-agente)
+-  Adepto de documentação e planejamento técnico antes de codar (spec-driven development)
+-  Sempre explorando arquiteturas assíncronas e boas práticas de engenharia (Clean/Hexagonal Architecture)
 
 ## 🛠️ Skills e Tecnologias
 
@@ -38,25 +38,23 @@ Engenheiro de software fullstack, apaixonado por resolver problemas com código.
 - Arquitetura assíncrona (SQLAlchemy 2.0 async, Alembic, arq)
 - WhatsApp Business Cloud API / Meta App Review
 
-## 💡 Projetos em destaque
+##  Projetos em destaque
 
 - **Sistema de atendimento multi-agente via WhatsApp** — backend em FastAPI + PostgreSQL + Redis + arq + MinIO, com roteamento de conversas entre atendentes e integração completa com a WhatsApp Cloud API.
 - **Plataforma de gestão de plantões e cuidados (saúde/home care)** — aplicação Django/DRF com calendário interativo (FullCalendar), arquitetura híbrida SSR + HTMX + Alpine.js.
 - **Gerador de quizzes com IA a partir de PDFs** — aplicação Django/DRF que extrai conteúdo de documentos e gera questões de múltipla escolha organizadas por matéria.
 - **Plataforma de e-learning (EduPlatform)** — backend em Django REST Framework (JWT, PostgreSQL, S3/MinIO) com frontend em Vue 3 + PrimeVue + Pinia + TypeScript.
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=jccarlosjr&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jccarlosjr&layout=compact)
 
-> Substitua `SEU_USUARIO` pelo seu nome de usuário do GitHub para ativar os cards acima.
 
 ## 📫 Contato
 
-- 📧 [jc.carlos.junior@outlook.com](mailto:jc.carlos.junior@outlook.com)
-- 🌐 LinkedIn — *adicione seu link aqui*
-- 💼 Portfólio — *adicione seu link aqui*
+- [jc.carlos.junior@outlook.com](mailto:jc.carlos.junior@outlook.com)
+
 
 ---
-⭐️ Aberto a oportunidades e parcerias em projetos de crédito digital, automação de atendimento e sistemas fullstack.
+Aberto a oportunidades e parcerias em projetos de crédito digital, automação de atendimento e sistemas fullstack.
