@@ -35,10 +35,14 @@ Full-stack software engineer focused on solving real problems with code. I work 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 **Practices & Methodologies**
-RESTful API design · Test-Driven Development · Spec-Driven Development · Async architecture (SQLAlchemy 2.0 async, Alembic, arq) · WhatsApp Business Cloud API / Meta App Review
+- RESTful API design
+- Test-Driven Development
+- Spec-Driven Development
+- Async architecture (SQLAlchemy 2.0 async, Alembic, arq)
+- WhatsApp Business Cloud API / Meta App Review
 
 
-## 📫 Contato
+## Contact
 - [jc.carlos.junior@outlook.com](mailto:jc.carlos.junior@outlook.com)
 
 
